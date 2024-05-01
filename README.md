@@ -2,19 +2,20 @@
 Набор todo приложений с использованием разных технологий
 
 ## Frontend
-- Vue + Pinia
-- Vue + Effector
-- Vue + Reatom
-- Vue + RxJS
-- Vue + TanStack
-- Vue + Apollo Client
-
-- React + Zustand
-- React + Effector
-- React + Reatom
-- React + RxJS
-- React + TanStack
-- React + Apollo Client
+### Vue
+- Pinia
+- Effector
+- Reatom
+- RxJS
+- TanStack
+- Apollo Client
+### React
+- Zustand
+- Effector
+- Reatom
+- RxJS
+- TanStack
+- Apollo Client
 
 ## Backend
 - Elysia static
